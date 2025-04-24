@@ -1,4 +1,4 @@
-# Phase 1 Project 
+# Phase 2 Project 
 
 
 ## Microsoft Movie Studio Components Analysis
